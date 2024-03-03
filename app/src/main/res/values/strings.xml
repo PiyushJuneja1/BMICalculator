@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMICal</string>
+    <string name="hint_wt">Enter Weight</string>
+    <string name="hint_htf">Enter Height(In Ft)</string>
+    <string name="hint_htin">Enter Height(In inches)</string>
+
+</resources>
