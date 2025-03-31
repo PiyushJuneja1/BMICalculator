@@ -1,1 +1,1 @@
-This is amazon frontend clone
+This is BMI Calculator
